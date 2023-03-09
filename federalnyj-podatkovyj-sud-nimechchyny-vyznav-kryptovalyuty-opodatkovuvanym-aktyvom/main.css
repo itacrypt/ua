@@ -1,0 +1,111 @@
+.News {
+    position: absolute;
+    width: 950px;
+    height: 2000px;
+    top: 0px;
+    left: 25%;
+    z-index: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TopLogo {
+    position: absolute;
+    width: 836px;
+    height: 79px;
+    left: 41px;
+    top: 17px;
+    z-index: 1;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 347px;
+    z-index: 1;
+
+}
+
+.downsleshLong {
+    position: absolute;
+    top: 66px;
+    left: 8px;
+    z-index: 1;
+
+}
+
+.Main {
+    position: absolute;
+    width: 950px;
+    height: 1730px;
+    left: 0px;
+    top: 153px;
+    z-index: 1;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainText {
+    position: absolute;
+    width: 931px;
+    left: 8px;
+    top: 623px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 24px;
+    
+    color: #000000;
+}
+
+.MainNews9 {
+    position: absolute;
+    width: 623px;
+    height: 491px;
+    left: 9px;
+    top: 45px;
+    z-index: 1;
+
+}
+
+.MainPhoto9 {
+    position: absolute;
+    top: 59px;
+    left: 90px;
+    z-index: 1;
+
+}
+
+.MainText9 {
+    position: absolute;
+    width: 950px;
+    height: 37px;
+    left: 56px;
+    top: -56px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 34px;
+    
+    color: #000000;
+}
+
+.Maindownslesh9 {
+    position: absolute;
+    top: 478px;
+    left: 165px;
+    z-index: 1;
+
+}

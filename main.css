@@ -1,0 +1,533 @@
+.News {
+    position: absolute;
+    width: 950px;
+    height: 2000px;
+    top: 0px;
+    left: 317px;
+    z-index: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Stats {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+
+}
+
+.Today {
+    position: absolute;
+    width: 301px;
+    height: 368px;
+    left: -8px;
+    top: 120px;
+    z-index: 1;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    position: absolute;
+    top: 9px;
+    left: 8px;
+    z-index: 0;
+}
+
+.TopText {
+position: absolute;
+width: 196px;
+left: 8px;
+top: 25px;
+z-index: 1;
+
+font-family: 'Manrope';
+font-size: 25px;
+
+color: #000000;
+}
+
+.News1 {
+    position: absolute;
+    width: 301px;
+    height: 65px;
+    left: 7px;
+    top: 102px;  
+    z-index: 1;
+
+}
+
+.Text {
+    position: absolute;
+    width: 339px;
+    height: 49px;
+    left: 1px;
+    top: -4px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #353333;
+    }
+
+    .downslesh {
+        position: absolute;
+        left: -1px;
+        top: 52px;
+        z-index: 1;
+
+    }
+
+    .News2 {
+        position: absolute;
+        width: 301px;
+        height: 87px;
+        left: 7px;
+        top: 185px;
+        z-index: 1;
+
+    }
+    
+    .Text2 {
+        position: absolute;
+        width: 306px;
+        height: 49px;
+        left: 2px;
+        top: -8px;
+        z-index: 1;
+
+        
+        font-family: 'Manrope';
+        font-size: 20px;
+        
+        color: #353333;
+        }
+    
+        .downslesh2 {
+            position: absolute;
+            left: -1px;
+            top: 73px;
+            z-index: 1;
+
+        }
+
+        .News3 {
+            position: absolute;
+            width: 301px;
+            height: 72px;
+            left: 7px;
+            top: 303px;
+            z-index: 1;
+
+        }
+        
+        .Text3 {
+            position: absolute;
+            width: 306px;
+            height: 49px;
+            left: 2px;
+            top: -9px;
+            z-index: 1;
+
+            
+            font-family: 'Manrope';
+            font-size: 20px;
+            
+            color: #353333;
+            }
+        
+            .downslesh3 {
+                position: absolute;
+                left: 0px;
+                top: 59px;
+                z-index: 1;
+
+            }
+
+.TopLogo {
+    position: absolute;
+    width: 836px;
+    height: 79px;
+    left: 213px;
+    top: 17px;
+    z-index: 1;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 347px;
+    z-index: 1;
+
+}
+
+.downsleshLong {
+    position: absolute;
+    top: 66px;
+    left: 8px;
+    z-index: 1;
+
+}
+
+.Main {
+    position: absolute;
+    width: 642px;
+    height: 1730px;
+    left: 319px;
+    top: 153px;
+    z-index: 1;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainText {
+    position: absolute;
+    left: 8px;
+    top: -7px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 24px;
+    
+    color: #000000;
+}
+
+.MainNews1 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 337px;
+    top: 1451px;
+    z-index: 1;
+
+}
+
+.MainPhoto1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText1 {
+    position: absolute;
+    width: 384px;
+    left: -1px;
+    top: 178px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh1 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews3 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 335px;
+    top: 1155px;
+    z-index: 1;
+
+}
+
+.MainPhoto3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText3 {
+    position: absolute;
+    width: 310px;
+    left: -1px;
+    top: 182px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh3 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews4 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 9px;
+    top: 1155px;
+    z-index: 1;
+
+}
+
+.MainPhoto4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText4 {
+    position: absolute;
+    width: 310px;
+    left: -1px;
+    top: 178px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh4 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews5 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 333px;
+    top: 859px;
+    z-index: 1;
+
+}
+
+.MainPhoto5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText5 {
+    position: absolute;
+    width: 318px;
+    left: -1px;
+    top: 182px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh5 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews6 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 9px;
+    top: 859px;
+    z-index: 1;
+
+}
+
+.MainPhoto6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText6 {
+    position: absolute;
+    width: 318px;
+    left: -1px;
+    top: 178px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh6 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews7 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 330px;
+    top: 563px;
+    z-index: 1;
+
+}
+
+.MainPhoto7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText7 {
+    position: absolute;
+    width: 318px;
+    left: 3px;
+    top: 181px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh7 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews8 {
+    position: absolute;
+    width: 300px;
+    height: 274px;
+    left: 9px;
+    top: 563px;
+    z-index: 1;
+
+}
+
+.MainPhoto8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText8 {
+    position: absolute;
+    width: 318px;
+    left: -1px;
+    top: 177px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.Maindownslesh8 {
+    position: absolute;
+    top: 261px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainNews9 {
+    position: absolute;
+    width: 623px;
+    height: 491px;
+    left: 9px;
+    top: 45px;
+    z-index: 1;
+
+}
+
+.MainPhoto9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+
+}
+
+.MainText9 {
+    position: absolute;
+    width: 598px;
+    height: 37px;
+    left: -1px;
+    top: 372px;
+    z-index: 1;
+
+    
+    font-family: 'Manrope';
+    font-size: 34px;
+    
+    color: #000000;
+}
+
+.Maindownslesh9 {
+    position: absolute;
+    top: 478px;
+    left: 165px;
+    z-index: 1;
+
+}
